@@ -1,0 +1,244 @@
+
+.marquee{
+    color: rgb(39, 138, 163);
+    font-size: 25px;
+    margin-bottom: 40px;
+}
+
+
+.Blog_One{
+    width:350px;
+    background-color: antiquewhite;
+    border: 3px solid black;
+    border-radius: 6px;
+    float: left;
+    margin-left: 70px;
+}
+.Blog_One h1{
+    text-align: center;
+    font-size: 30px;
+    color: black;
+    text-transform: capitalize;
+}
+.Blog_One img{
+    width: 250px;
+    height: 200px;
+    margin-left: 25px;
+}
+.Blog_One p{
+    font-size: 16px;
+    color: black;
+    margin-left: 25px;
+}
+.btn_one{
+    height: 40px;
+    width: 150px;
+    border: 2px solid black;
+    border-radius: 4px;
+    background-color: rgba(156, 181, 228, 0.575);
+    margin-left: 25px;
+    margin-bottom: 20px;
+}
+.Blog_two{
+    width:350px;
+    background-color: antiquewhite;
+    border: 3px solid black;
+    border-radius: 6px;
+    float: left;
+    margin-left: 40px;
+}
+.Blog_two h1{
+    text-align: center;
+    font-size: 30px;
+    color: black;
+    text-transform: capitalize;
+}
+.Blog_two img{
+    width: 250px;
+    height: 200px;
+    margin-left: 25px;
+}
+.Blog_two p{
+    font-size: 16px;
+    color: black;
+    margin-left: 25px;
+}
+.btn_one{
+    height: 40px;
+    width: 150px;
+    border: 2px solid black;
+    border-radius: 4px;
+    background-color: rgba(156, 181, 228, 0.575);
+    margin-left: 25px;
+    margin-bottom: 20px;
+}
+
+
+.Blog_three{
+    width:350px;
+    background-color: antiquewhite;
+    border: 3px solid black;
+    border-radius: 6px;
+    float: left;
+    margin-left: 40px;
+    margin-bottom: 70px;
+}
+.Blog_three h1{
+    text-align: center;
+    font-size: 30px;
+    color: black;
+    text-transform: capitalize;
+}
+.Blog_three img{
+    width: 300px;
+    height: 200px;
+    margin-left: 25px;
+}
+.Blog_three p{
+    font-size: 16px;
+    color: black;
+    margin-left: 25px;
+}
+.btn_one{
+    height: 40px;
+    width: 150px;
+    border: 2px solid black;
+    border-radius: 4px;
+    background-color: rgba(156, 181, 228, 0.575);
+    margin-left: 25px;
+    margin-bottom: 20px;
+}
+.mim{
+    width:350px;
+    float: left;
+    margin-left: 40px;
+    margin-bottom: 70px;
+}
+.mim img{
+    height: 200px;
+    width: 320px;
+    margin-left: 55px;
+}
+.mim h1{
+    margin-left: 150px;
+    text-transform: capitalize;
+}
+.mim p{
+    margin-left: 55px;
+    font-size: 16px;
+   align-items: center;
+   height: 50px;
+   text-transform: capitalize;
+   margin-bottom: 110px;
+}
+.btn_one1{
+    height: 40px;
+    width: 150px;
+    border: 2px solid black;
+    border-radius: 4px;
+    background-color: rgba(156, 181, 228, 0.575);
+    margin-left: 55px;
+    margin-bottom: 20px;
+} 
+
+.Blog_five{
+    width:350px;
+    float: left;
+    margin-left: 40px;
+    
+   
+}
+.Blog_five img{
+    height: 200px;
+    width: 320px;
+    margin-left: 55px;
+}
+.Blog_five h1{
+    margin-left: 150px;
+    text-transform: capitalize;
+}
+.Blog_five p{
+    margin-left: 55px;
+    font-size: 16px;
+   align-items: center;
+   height: 50px;
+   text-transform: capitalize;
+   margin-bottom: 110px;
+}
+.btn_one1{
+    height: 40px;
+    width: 150px;
+    border: 2px solid black;
+    border-radius: 4px;
+    background-color: rgba(156, 181, 228, 0.575);
+    margin-left: 55px;
+    margin-bottom: 20px;
+} 
+
+.Blog_six{
+    width:320px;
+    float: left;
+    margin-left: 40px;
+    margin-bottom: 70px;
+}
+.Blog_six img{
+    height: 200px;
+    width: 300px;
+    margin-left: 55px;
+}
+.Blog_six h1{
+    margin-left: 150px;
+    text-transform: capitalize;
+}
+.Blog_six p{
+    margin-left: 55px;
+    font-size: 16px;
+   align-items: center;
+   height: 50px;
+   text-transform: capitalize;
+   margin-bottom: 110px;
+}
+.btn_one1{
+    height: 40px;
+    width: 150px;
+    border: 2px solid black;
+    border-radius: 4px;
+    background-color: rgba(156, 181, 228, 0.575);
+    margin-left: 55px;
+    margin-bottom: 20px;
+} 
+.two{
+    width: 400px;
+    float: left;
+    margin-top: 50px;
+    margin-left: 60px;
+}
+.two h1{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+    font-size: 50px;
+}
+.two h3{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+}
+.two p{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    padding-bottom: 40px;
+}
+.pic{
+    width: 600px;
+    float: left;
+    margin-top: 50px;
+    margin-left: 100px;
+}
+.pic img{
+    width: 100%;
+    height: 500px;
+}
+.marquee2{
+    color: rgb(30, 24, 110);
+   font-size: 30px;
+    margin-bottom: 40px; 
+}
